@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kumar Chaudhary</h1>
 <h3 align="center">Laravel React API Engineering</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coomar25&label=Profile%20views&color=0e75b6&style=flat" alt="coomar25" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=coomar25&label=Profile%20views&color=0e75b6&style=flat" alt="coomar25" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
