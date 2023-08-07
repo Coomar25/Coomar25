@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kumar Chaudhary</h1>
-<h3 align="center">Softwate Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=coomar25&label=Profile%20views&color=0e75b6&style=flat" alt="coomar25" /> </p>
 
